@@ -24,7 +24,7 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
     - Asegarate de encerrar la matriz entre comillas dobles en la consola para que se pase como un solo argumento.
     - Los elementos de la matriz deben ser números (enteros o flotantes).
 
-Por ejemplo:
+- Por ejemplo:
 
     ```bash
     python saddle_points.py "[[9, 8, 7], [5, 3, 2], [6, 6, 7]]"
@@ -37,6 +37,7 @@ Por ejemplo:
     ```
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
+
 
 
 
