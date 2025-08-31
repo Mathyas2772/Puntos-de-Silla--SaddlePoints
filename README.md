@@ -33,12 +33,12 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
 ![Ejemplo 1](https://files.catbox.moe/v39d4i.png)
 
 - 
-
     ```Ejemplo 2
     python saddle_points.py "[[6, 7, 8], [5, 5, 5], [7, 5, 6]]"
     ```
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
+
 
 
 
