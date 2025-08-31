@@ -25,6 +25,7 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
     - Los elementos de la matriz deben ser números (enteros o flotantes).
 
 Por ejemplo:
+
     ```Ejemplo 1
     python saddle_points.py "[[9, 8, 7], [5, 3, 2], [6, 6, 7]]"
     ```
@@ -34,5 +35,6 @@ Por ejemplo:
     ```Ejemplo 2
     python saddle_points.py "[[6, 7, 8], [5, 5, 5], [7, 5, 6]]"
     ```
+
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
