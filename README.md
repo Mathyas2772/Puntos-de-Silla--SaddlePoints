@@ -1,6 +1,6 @@
 # Puntos de Silla
 
-Este proyecto es el resultado para un ejercicio de Exercism.com, una página conocida por ofrecer ejercicios para practicar cualquier idioma de programación. El ejercicio consistía en encontrar el mejor árbol para construir una casa; el más alto de este a oeste para tener la mejor vista del anochecer y el amanecer, y el más bajo de norte a sur para minimizar la cantidad de árboles a escalar. Básicamente, un típico ejercicio de Puntos de Silla (Saddle Points).
+Este proyecto es el resultado para un ejercicio de Exercism.org, una página conocida por ofrecer ejercicios para practicar cualquier idioma de programación. El ejercicio consistía en encontrar el mejor árbol para construir una casa; el más alto de este a oeste para tener la mejor vista del anochecer y el amanecer, y el más bajo de norte a sur para minimizar la cantidad de árboles a escalar. Básicamente, un típico ejercicio de Puntos de Silla (Saddle Points).
 Este ejercicio avanzado en Exercism fue el último que completé antes de empezar a crear mis propios proyectos para mi portafolio. Edité el código ligeramente para que se pueda ejecutar sin necesidad de depender de todos los archivos que vienen con el test o el programa de Exercism para completar y depurar sus ejercicios; simplemente podrás ejecutar el código en la consola con Python 3.
 
 ## Habilidades Demostradas
@@ -38,6 +38,7 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
     ```
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
+
 
 
 
