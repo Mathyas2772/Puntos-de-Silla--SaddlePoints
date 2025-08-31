@@ -13,7 +13,7 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
 2. Navegar al directorio del archivo.
 3. Ejecutar el comando de `python`, `py` o `python3` seguido del nombre del archivo y la matriz en formato de lista de listas. Por ejemplo:
     ```bash
-    python saddle_points.py "[matriz]"`
+    python saddle_points.py "[matriz]"
     ```
 
 ## Notas importantes
@@ -38,6 +38,7 @@ Por ejemplo:
 
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
+
 
 
 
