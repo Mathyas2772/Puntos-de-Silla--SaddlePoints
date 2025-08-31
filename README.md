@@ -26,15 +26,16 @@ Este ejercicio avanzado en Exercism fue el último que completé antes de empeza
 
 Por ejemplo:
 
-    ```Ejemplo 1
+    ```Ejemplo1
     python saddle_points.py "[[9, 8, 7], [5, 3, 2], [6, 6, 7]]"
     ```
 
 ![Ejemplo 1](https://files.catbox.moe/v39d4i.png)
 
-    ```Ejemplo 2
+    ```Ejemplo2
     python saddle_points.py "[[6, 7, 8], [5, 5, 5], [7, 5, 6]]"
     ```
 
 
 ![Ejemplo 2](https://files.catbox.moe/lndyzq.png)
+
